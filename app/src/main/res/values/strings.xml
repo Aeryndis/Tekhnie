@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tekhnie</string>
+
+    <!-- Text to display in the list when there are no articles [CHAR LIMIT=NONE] -->
+    <string name="no_articles">No articles found.</string>
+
+    <!-- Text to display in the list when there is no internet connection -->
+    <string name="no_internet">No internet connection.</string>
+
+    <string name="byline_starter">By: </string>
+
+    <string name="section_starter">Section: </string>
+</resources>
